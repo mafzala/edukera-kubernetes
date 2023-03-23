@@ -1,4 +1,5 @@
---- <Fork from - https://github.com/ijason/NodeJS-Sample-App/blob/master/k8s.yaml>
+--- 
+# <Fork from - https://github.com/ijason/NodeJS-Sample-App/blob/master/k8s.yaml>
 apiVersion: v1
 kind: List
 items:
